@@ -1,1 +1,3 @@
-# nyc-violation-cameras
+### Abstract
+
+This project focuses on finding the relationship between the presence of automated law enforcement, such as speeding and red-light cameras, and the frequency of corresponding traffic violation incidents. Our goal is to present a case for the increase in availability of traffic cameras, as a means of reducing incidence of traffic violations. To do this, multiple datasets of automated law cameras and traffic violation incidents were compared by observing the indicators' temporal activities and analyzing their fitting to traffic violation cases. Moreover, the impact of increasing the number of cameras and the number of police officers across the city was also compared. We hypothesize a correlation between the prevalence of automated law enforcement and the frequency of violations, and that they will have an inverse relationship, where an increase in the number of cameras would decrease traffic violations.
